@@ -1,0 +1,23 @@
+.main {  
+ display: flex;
+ flex-wrap: wrap;
+ background: linear-gradient(
+  to right, rgba(255, 0, 0, 0.368), rgba(0, 0, 255, 0.454)
+ ); 
+ /* animation: backgroundAnimation 5s infinite alternate; */
+}
+
+/* @keyframes backgroundAnimation {
+  0% {
+    background-color: #FCFFC1;
+  }
+  25% {
+    background-color: #FFE893;
+  }
+  50% {
+    background-color: #FBB4A5;
+  }
+  100% {
+    background-color: #FB9EC6;
+  }
+} */
